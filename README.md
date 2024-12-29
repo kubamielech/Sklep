@@ -1,2 +1,2 @@
-# Sklep
-live: https://kubamielech.github.io/Sklep/
+# alkolove
+live: https://kubamielech.github.io/alkolove/
